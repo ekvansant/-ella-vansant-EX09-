@@ -11,7 +11,7 @@ For EX09 I have completed an analysis of potentially improving COMP 110 by addin
 
 To understand the spread of responses for the livestream survey question, a histogram was utilized, 0 = "Strongly Disagree," and 7 = "Strongly Agree." As seen below, a large proportion of the students enrolled would find these videos useful, as the bin with the highest frequency is the "Strongly Agree" response. The count function further revealed that 201 students strongly agreed (7) that adding livestreams would be useful.
 
-<img src="ella-vansant-EX09.github.io/static/imgs/LivestreamGraph.png" alt="Image of livestream histogram." width="500"/>ß
+<img src="ella-vansant-EX09.github.io/static/imgs/LivestreamGraph.png" alt="Image of livestream histogram (0 = Strongly Disgree, 7 = Strongly Agreee)." width="500"/>ß
 
 Difficulty ratings were visualized utilizing a count plot, where 0 = I am finding COMP110 to be "Very Easy" and 7 = I am finding COMP110 to be "Very Difficult." The resulting graph displays a standard bell curve distribution, with the majority of students falling into the 4-5 difficulty rating. 
 
