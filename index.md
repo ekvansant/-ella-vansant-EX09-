@@ -13,6 +13,8 @@ To understand the spread of responses for the livestream survey question, a hist
 
 <img src="static/imgs/LivestreamGraph.png" alt="Image of livestream histogram (0 = Strongly Disagree, 7 = Strongly Agree)." width="500"/>
 
+<img src="./static/imgs/LivestreamGraph.png" alt="Image of livestream histogram (0 = Strongly Disagree, 7 = Strongly Agree)." width="500"/>
+
 Difficulty ratings were visualized utilizing a count plot, where 0 = I am finding COMP110 to be "Very Easy" and 7 = I am finding COMP110 to be "Very Difficult." The resulting graph displays a standard bell curve distribution, with the majority of students falling into the 4-5 difficulty rating. 
 
 <img src="static/imgs/DifficultyGraph.png" alt="Image of difficulty count plot (0 = Very Easy, 7 = Very Difficult)." width="500"/>
