@@ -11,20 +11,21 @@ For EX09 I have completed an analysis of potentially improving COMP 110 by addin
 
 To understand the spread of responses for the livestream survey question, a histogram was utilized, 0 = "Strongly Disagree," and 7 = "Strongly Agree." As seen below, a large proportion of the students enrolled would find these videos useful, as the bin with the highest frequency is the "Strongly Agree" response. The count function further revealed that 201 students strongly agreed (7) that adding livestreams would be useful.
 
-<img src="/personal-site.github.io/static/imgs/LivestreamGrap.png" alt="Image of livestream histogram. "  width="500"/>
+<img src="static/imgs/LivestreamGraph.png" alt="Image of livestream histogram (0 = Strongly Disagree, 7 = Strongly Agree)." width="500"/>
 
 Difficulty ratings were visualized utilizing a count plot, where 0 = I am finding COMP110 to be "Very Easy" and 7 = I am finding COMP110 to be "Very Difficult." The resulting graph displays a standard bell curve distribution, with the majority of students falling into the 4-5 difficulty rating. 
 
-<img src="static/imgs/DifficultyGraph.png" alt="Image of difficulty count plot." width="500"/>
+<img src="static/imgs/DifficultyGraph.png" alt="Image of difficulty count plot (0 = Very Easy, 7 = Very Difficult)." width="500"/>
 
 
 Livestream and difficulty scores were plotted on a jittered scatterplot to best visualize how many high difficulty students desired livestreams. Students with the highest desire for livestreams (add_livestream = 7) frequently rated course difficulty in the 3-7 range. Those who rated their desire for livestreams around the bulk of the distribution (add_livestream = 4-7) most prevalently rated course difficulty in the 3-5 range. 
 
-<img src="/personal-site.github.io/static/imgs/LiveVSDiffGraph.png" alt="Image of livestream vs. difficulty scatterplot w/ jitter. "  width="500"/>
+<img src="static/imgs/LiveVSDiffGraph.png" alt="Image of livestream vs. difficulty scatterplot w/ jitter." width="500"/>
 
 Livestream and understanding scores were plotted on a jittered scatterplot to best visualize the course understanding of students who desired livestreams, where Understanding of: So far, I'm feeling like I typically 0 = "Am Lost" and 7 = "Understand Everything." students with a moderate to high desire for livestreams (add_livestream = 4-7) had a tendency to rate their understanding of the course in the 3-6 range. Those with the lowest course understanding (understanding= 1-2) had a strong desire for livestreams, with the majority rating their desire in the 6-7 range.
 
-<img src="/personal-site.github.io/static/imgs/LiveVSUnderGraph" alt="Image of livestream vs. understanding scatterplot w/ jitter. "  width="500"/>
+<img src="static/imgs/LiveVSUnderGraph.png" alt="Image of livestream vs. understanding scatterplot w/ jitter." width="500"/>
+
 
 # Final Conclusions
 
